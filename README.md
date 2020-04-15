@@ -12,7 +12,7 @@ Les données relatives au nombre cumulé de personnes malades, guéries, et mort
   <li><a href="https://www.worldometers.info/coronavirus/" target="_blank">WorldoMeters</a></li>
 </ul>
 Nous nous sommes assurés de la véracité des données du Bénin avec celles publiées sur le site officiel du gouvernement accessible à l'adresse https://www.gouv.bj/coronavirus/ avant d'effectuer nos analyses et comparaions. <br>
-<b>NB:</b> Les données relatives à la taille de la population proviennent également de <a href="https://www.worldometers.info/" target="_blank">WorldoMeters</a>. Le code pyton de leur extraction automatique se trouve dans le notebook <a href="" target="_blank"></a>.
+<b>NB:</b> Les données relatives à la taille de la population proviennent également de <a href="https://www.worldometers.info/" target="_blank">WorldoMeters</a>. Le code pyton de leur extraction automatique se trouve dans le <a href="https://github.com/Takwimu-Lab/Covid-19-BJ/blob/master/Analyse%20descriptive%20et%20comparative%20du%20Covid-19%20au%20B%C3%A9nin%20-%2001%20.ipynb" target="_blank">notebook</a>.
 <br>
 <table class="tg">
   <tr>
