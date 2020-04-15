@@ -12,8 +12,85 @@ Les données relatives au nombre cumulé de personnes malades, guéries, et mort
   <li><a href="https://www.worldometers.info/coronavirus/" target="_blank">WorldoMeters</a></li>
 </ul>
 Nous nous sommes assurés de la véracité des données du Bénin avec celles publiées sur le site officiel du gouvernement accessible à l'adresse https://www.gouv.bj/coronavirus/ avant d'effectuer nos analyses et comparaions. <br>
-<b>NB:</b> Les données relatives à la taille de la population proviennent également de <a href="https://www.worldometers.info/" target="_blank">WorldoMeters</a>. Le code pyton de leur extraction automatique se trouve dans le notebook <a href="" target="_blank"></a>.
+<b>NB:</b> Les données relatives à la taille de la population proviennent également de <a href="https://www.worldometers.info/" target="_blank">WorldoMeters</a>. Le code pyton de leur extraction automatique se trouve dans le <a href="https://nbviewer.jupyter.org/github/Takwimu-Lab/Covid-19-BJ/blob/8d053b25ce243abc773ab3da1b398fe2ff46256a/Analyse%20descriptive%20et%20comparative%20du%20Covid-19%20au%20B%C3%A9nin%20-%2001%20.ipynb" target="_blank">notebook</a>.
 <br>
+<table class="tg">
+  <tr>
+    <th class="tg-u6fn">Désignation</th>
+    <th class="tg-k4jp">Pays</th>
+    <th class="tg-k4jp">Valeurs au mardi 14 avril 2020</th>
+  </tr>
+  <tr>
+    <td class="tg-zd5i">Plus petit nombre de contamination</td>
+    <td class="tg-0r18">Benin</td>
+    <td class="tg-0r18">35</td>
+  </tr>
+  <tr>
+    <td class="tg-zd5i">Plus grand nombre de contamination</td>
+    <td class="tg-0r18">Niger</td>
+    <td class="tg-0r18">570</td>
+  </tr>
+  <tr>
+    <td class="tg-zd5i">Faible taux de contamination</td>
+    <td class="tg-0r18">Nigeria</td>
+    <td class="tg-0r18">1.81 / 1 million d'habitants</td>
+  </tr>
+  <tr>
+    <td class="tg-zd5i">Fort taux de contamination</td>
+    <td class="tg-0r18">Burkina Faso</td>
+    <td class="tg-0r18">25.26 / 1 million d'habitants</td>
+  </tr>
+  <tr>
+    <td class="tg-zd5i"></td>
+    <td class="tg-0r18"></td>
+    <td class="tg-0r18"></td>
+  </tr>
+  <tr>
+    <td class="tg-zd5i">Plus petit nombre de guérison</td>
+    <td class="tg-0r18">Benin</td>
+    <td class="tg-0r18">18</td>
+  </tr>
+  <tr>
+    <td class="tg-zd5i">Plus grand nombre de guérison</td>
+    <td class="tg-0r18">Burkina Faso</td>
+    <td class="tg-0r18">177</td>
+  </tr>
+  <tr>
+    <td class="tg-zd5i">Faible taux de guérison</td>
+    <td class="tg-0r18">Niger</td>
+    <td class="tg-0r18">15.79 / 100 cas</td>
+  </tr>
+  <tr>
+    <td class="tg-zd5i">Fort taux de guérison</td>
+    <td class="tg-0r18">Benin</td>
+    <td class="tg-0r18">51.43 / 100 cas</td>
+  </tr>
+  <tr>
+    <td class="tg-zd5i"></td>
+    <td class="tg-0r18"></td>
+    <td class="tg-0r18"></td>
+  </tr>
+  <tr>
+    <td class="tg-zd5i">Plus petit nombre de décès</td>
+    <td class="tg-0r18">Benin</td>
+    <td class="tg-0r18">1</td>
+  </tr>
+  <tr>
+    <td class="tg-zd5i">Plus grand nombre de décès</td>
+    <td class="tg-0r18">Burkina Faso</td>
+    <td class="tg-0r18">30</td>
+  </tr>
+  <tr>
+    <td class="tg-zd5i">Faible taux de décès</td>
+    <td class="tg-0r18">Nigeria</td>
+    <td class="tg-0r18">3.14 / 100 cas</td>
+  </tr>
+  <tr>
+    <td class="tg-zd5i">Fort taux de décès</td>
+    <td class="tg-0r18">Niger</td>
+    <td class="tg-0r18">14.29 / 100 cas</td>
+  </tr>
+</table>
 <br>
 <b>Pour en savoir plus sur notre groupe de travail:</b> <a href="https://facebook.com/takwimulab" target="_blank">Facebook</a> | <a href="https://twitter.com/takwimulab" target="_blank">Twitter</a> | <a href="https://www.linkedin.com/company/takwimulab" target="_blank">LinkedIn</a> | <a href="https://takwimulab.gitlab.io/" target="_blank">Info+</a> <br>
 <b>Contact: </b> <a href="mailto:takwimulab@gmail.com" target="_blank">takwimulab@gmail.com</a>
