@@ -12,83 +12,84 @@ Les données relatives au nombre cumulé de personnes malades, guéries, et mort
   <li><a href="https://www.worldometers.info/coronavirus/" target="_blank">WorldoMeters</a></li>
 </ul>
 Nous nous sommes assurés de la véracité des données du Bénin avec celles publiées sur le site officiel du gouvernement accessible à l'adresse https://www.gouv.bj/coronavirus/ avant d'effectuer nos analyses et comparaions. <br>
-<b>NB:</b> Les données relatives à la taille de la population proviennent également de <a href="https://www.worldometers.info/" target="_blank">WorldoMeters</a>. Le code pyton de leur extraction automatique se trouve dans le <a href="https://nbviewer.jupyter.org/github/Takwimu-Lab/Covid-19-BJ/blob/8d053b25ce243abc773ab3da1b398fe2ff46256a/Analyse%20descriptive%20et%20comparative%20du%20Covid-19%20au%20B%C3%A9nin%20-%2001%20.ipynb" target="_blank">notebook</a>.
+<b>NB:</b> Les données relatives à la taille de la population proviennent également de <a href="https://www.worldometers.info/" target="_blank">WorldoMeters</a>. Le code pyton de leur extraction automatique se trouve dans le <a href="https://nbviewer.jupyter.org/github/Takwimu-Lab/Covid-19-BJ/blob/d3aae030e7d56ccb25edafd1b64d4d267dafdb77/Analyse%20descriptive%20et%20comparative%20du%20Covid-19%20au%20B%C3%A9nin%20-%2001%20.ipynb" target="_blank">notebook</a>.
 <br>
-<table class="tg">
+<br>
+<table>
   <tr>
-    <th class="tg-u6fn">Désignation</th>
-    <th class="tg-k4jp">Pays</th>
-    <th class="tg-k4jp">Valeurs au mardi 14 avril 2020</th>
+    <th>Désignation</th>
+    <th>Pays</th>
+    <th>Valeurs au mardi 14 avril 2020</th>
   </tr>
   <tr>
-    <td class="tg-zd5i">Plus petit nombre de contamination</td>
-    <td class="tg-0r18">Benin</td>
-    <td class="tg-0r18">35</td>
+    <td>Plus petit nombre de contamination</td>
+    <td>Benin</td>
+    <td>35.0</td>
   </tr>
   <tr>
-    <td class="tg-zd5i">Plus grand nombre de contamination</td>
-    <td class="tg-0r18">Niger</td>
-    <td class="tg-0r18">570</td>
+    <td>Plus grand nombre de contamination</td>
+    <td>Niger</td>
+    <td>570.0</td>
   </tr>
   <tr>
-    <td class="tg-zd5i">Faible taux de contamination</td>
-    <td class="tg-0r18">Nigeria</td>
-    <td class="tg-0r18">1.81 / 1 million d'habitants</td>
+    <td>Faible taux de contamination</td>
+    <td>Nigeria</td>
+    <td>1.81 / 1 million d'habitants</td>
   </tr>
   <tr>
-    <td class="tg-zd5i">Fort taux de contamination</td>
-    <td class="tg-0r18">Burkina Faso</td>
-    <td class="tg-0r18">25.26 / 1 million d'habitants</td>
+    <td>Fort taux de contamination</td>
+    <td>Burkina Faso</td>
+    <td>25.26 / 1 million d'habitants</td>
   </tr>
   <tr>
-    <td class="tg-zd5i"></td>
-    <td class="tg-0r18"></td>
-    <td class="tg-0r18"></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-zd5i">Plus petit nombre de guérison</td>
-    <td class="tg-0r18">Benin</td>
-    <td class="tg-0r18">18</td>
+    <td>Plus petit nombre de guérison</td>
+    <td>Benin</td>
+    <td>18.0</td>
   </tr>
   <tr>
-    <td class="tg-zd5i">Plus grand nombre de guérison</td>
-    <td class="tg-0r18">Burkina Faso</td>
-    <td class="tg-0r18">177</td>
+    <td>Plus grand nombre de guérison</td>
+    <td>Burkina Faso</td>
+    <td>177.0</td>
   </tr>
   <tr>
-    <td class="tg-zd5i">Faible taux de guérison</td>
-    <td class="tg-0r18">Niger</td>
-    <td class="tg-0r18">15.79 / 100 cas</td>
+    <td>Faible taux de guérison</td>
+    <td>Niger</td>
+    <td>15.79 / 100 cas</td>
   </tr>
   <tr>
-    <td class="tg-zd5i">Fort taux de guérison</td>
-    <td class="tg-0r18">Benin</td>
-    <td class="tg-0r18">51.43 / 100 cas</td>
+    <td>Fort taux de guérison</td>
+    <td>Benin</td>
+    <td>51.43 / 100 cas</td>
   </tr>
   <tr>
-    <td class="tg-zd5i"></td>
-    <td class="tg-0r18"></td>
-    <td class="tg-0r18"></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-zd5i">Plus petit nombre de décès</td>
-    <td class="tg-0r18">Benin</td>
-    <td class="tg-0r18">1</td>
+    <td>Plus petit nombre de décès</td>
+    <td>Benin</td>
+    <td>1.0</td>
   </tr>
   <tr>
-    <td class="tg-zd5i">Plus grand nombre de décès</td>
-    <td class="tg-0r18">Burkina Faso</td>
-    <td class="tg-0r18">30</td>
+    <td>Plus grand nombre de décès</td>
+    <td>Burkina Faso</td>
+    <td>30.0</td>
   </tr>
   <tr>
-    <td class="tg-zd5i">Faible taux de décès</td>
-    <td class="tg-0r18">Nigeria</td>
-    <td class="tg-0r18">3.14 / 100 cas</td>
+    <td>Faible taux de décès</td>
+    <td>Niger</td>
+    <td>2.46 / 100 cas</td>
   </tr>
   <tr>
-    <td class="tg-zd5i">Fort taux de décès</td>
-    <td class="tg-0r18">Niger</td>
-    <td class="tg-0r18">14.29 / 100 cas</td>
+    <td>Fort taux de décès</td>
+    <td>Burkina Faso</td>
+    <td>5.68 / 100 cas</td>
   </tr>
 </table>
 <br>
