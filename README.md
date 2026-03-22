@@ -1,6 +1,6 @@
 # Covid-19 : Analyse de l'évolution de la pandémie au Bénin et comparaison avec ses pays limitrophes.
 
-Ce travail est une application basique des cours d'<b>analyse</b> et de <b>visualisation</b> de <b>données</b> au sein du groupe de travail  <b>Takwimulab</b> qui se veut un creuset d'apprentissage de la <b>Data Science</b> et de son application sur des sujets communautaires concrets. Seules les données du Bénin et ses pays limitrophes (Togo, Burkina Faso, Niger et Nigéria) seront visualisées, analysées et croisées.
+Ce travail est un exercice basique d'<b>analyse</b> et de <b>visualisation</b> de <b>données</b>. Seules les données du Bénin et ses pays limitrophes (Togo, Burkina Faso, Niger et Nigéria) seront visualisées, analysées et croisées.
 
 <br>
 <b>Source des données:</b><br>
@@ -93,8 +93,8 @@ Nous nous sommes assurés de la véracité des données du Bénin avec celles pu
   </tr>
 </table>
 <br>
-<b>Pour en savoir plus sur notre groupe de travail:</b> <a href="https://facebook.com/takwimulab" target="_blank">Facebook</a> | <a href="https://twitter.com/takwimulab" target="_blank">Twitter</a> | <a href="https://www.linkedin.com/company/takwimulab" target="_blank">LinkedIn</a> | <a href="https://takwimulab.gitlab.io/" target="_blank">Info+</a> <br>
-<b>Contact: </b> <a href="mailto:takwimulab@gmail.com" target="_blank">takwimulab@gmail.com</a>
+<a href="https://facebook.com/bolablg" target="_blank">Facebook</a> | <a href="https://twitter.com/bolablg" target="_blank">Twitter</a> | <a href="https://www.linkedin.com/in/bolablg" target="_blank">LinkedIn</a> | <a href="https://bolablg.com" target="_blank">Info+</a> <br>
+<b>Contact: </b> <a href="mailto:hello@bolablg.com" target="_blank">hello@bolablg.com</a>
 <br>
 
 
